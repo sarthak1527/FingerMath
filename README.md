@@ -65,7 +65,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-Download the `hand_landmarker.task` model from the official MediaPipe Models repository and place it in the project directory.
+Download the `hand_landmarker.task` model from the official MediaPipe Models repository and place it in the project directory or use it from the repo.
 
 ## Running the Project
 
